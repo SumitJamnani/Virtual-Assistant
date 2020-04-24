@@ -1,0 +1,14 @@
+beautifulsoup4==4.8.2
+certifi==2019.11.28
+chardet==3.0.4
+idna==2.8
+PyAudio==0.2.11
+pygame==1.9.6
+pypiwin32==223
+pyttsx3==2.71
+pywin32==227
+requests==2.22.0
+soupsieve==1.9.5
+SpeechRecognition==3.8.1
+urllib3==1.25.8
+wikipedia==1.4.0
